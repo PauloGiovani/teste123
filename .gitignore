@@ -1,0 +1,15 @@
+# Ignora os executáveis MAC
+*
+!/**/
+!*.*
+
+# Arquivos Objeto
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executáveis
+*.exe
+*.out
+*.app
